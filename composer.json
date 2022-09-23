@@ -3,7 +3,7 @@
     "description": "Firebase client for pusher library",
     "type": "library",
     "license": "MIT",
-    "version": "0.2.1",
+    "version": "0.3.0",
     "keywords": ["push", "notification", "symfony", "firebase"],
     "authors": [
         {
